@@ -15,7 +15,11 @@ const router = createRouter({
     {
       path: '/auth/login',
       name: 'login',
-      component: Login
+      component: Login,
+      meta:{
+        hideNavbar: true,
+        hideSidebar: true
+      }
     }
   ],
 })

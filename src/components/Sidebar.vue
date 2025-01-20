@@ -1,5 +1,5 @@
 <template>
-    <aside class="w-64 bg-gray-800 text-white sticky top-0 h-screen">
+    <aside class="w-64 bg-white shadow-md sticky top-0 h-screen">
             <div class="p-4">
                 <h1 class="text-2xl font-bold">Admin Dashboard</h1>
             </div>

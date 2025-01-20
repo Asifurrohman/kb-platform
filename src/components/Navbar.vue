@@ -3,7 +3,7 @@
         <div class="max-w-screen-xl mx-auto px-4 py-3 flex justify-between items-center">
             <h1 class="text-xl font-semibold">Dashboard</h1>
             <div>
-                <button class="bg-blue-500 text-white px-4 py-2 rounded">Log Out</button>
+                <button class="bg-main-red text-white px-4 py-2 rounded">Log Out</button>
             </div>
         </div>
     </header>
